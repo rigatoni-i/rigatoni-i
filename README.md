@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm ΜΑΓΔΑΛΗΝΗ!
 
-<!--
-**rigatoni-i/rigatoni-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer & Electronic Systems Engineering student at the **International Hellenic University**, passionate about Software Engineering, technology, and continuous learning.
 
-Here are some ideas to get you started:
+💻 I’m currently focused on:
+- Building **Java** and **backend** development skills
+- Exploring **API design** with the **Spring** Ecosystem and its capabilities
+- Creating **desktop and Android apps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Languages:**  
+☕ Java · 💻 C · 🌐 HTML · 🧩 CSS · ⚡ JavaScript (learning) · 🗄️ SQL
+
+**Frameworks & Libraries:**  
+🧱 JavaFX · ⚙️ JDBC · ⚙️ Maven ·
+🌿 Spring Boot (learning) · 🧩 Spring Data JPA  · 
+🔐 Spring Security (learning) · 🧬 Hibernate  
+
+**Databases:**  
+🗄️ MySQL   
+
+**Tools & Technologies:**  
+🧰 Git & GitHub · 🪟 Visual Studio Code · 🧑‍💻 IntelliJ IDEA · 📱 Android Studio · 🖥️ Scene Builder <br>
+I'm familiar with the Linux OS, specifically Ubuntu and Mint 
+
+**Concepts:**  
+🔹 Object-Oriented Programming (OOP)  
+🔹 Software Design & Analysis  
+🔹 Data Structures & Algorithms 
+
+🚀 Goals for 2026:
+- Develop and publish a complete **Spring Java** app
+- Contribute to open-source projects
+---
+
