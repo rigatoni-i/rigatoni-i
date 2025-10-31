@@ -14,7 +14,7 @@
 
 **Frameworks & Libraries:**  
 🧱 JavaFX · ⚙️ JDBC · ⚙️ Maven ·
-🌿 Spring Boot (learning) · 🧩 Spring Data JPA  · 
+🌿 Spring Boot · 🧩 Spring Data JPA  · 
 🔐 Spring Security (learning) · 🧬 Hibernate  
 
 **Databases:**  
