@@ -21,7 +21,7 @@
 🗄️ MySQL   
 
 **Tools & Technologies:**  
-🧰 Git & GitHub · 🪟 Visual Studio Code · 🧑‍💻 IntelliJ IDEA · 📱 Android Studio · 🖥️ Scene Builder <br>
+🧰 Git & GitHub · 🪟 Visual Studio Code · 🧑‍💻 IntelliJ IDEA · 📱 Android Studio · 🖥️ Scene Builder <br> · 📨 PostMan
 I'm familiar with the Linux OS, specifically Ubuntu and Mint 
 
 **Concepts:**  
