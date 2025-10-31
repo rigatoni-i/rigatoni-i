@@ -5,7 +5,7 @@
 💻 I’m currently focused on:
 - Building **Java** and **backend** development skills
 - Exploring **API design** with the **Spring** Ecosystem and its capabilities
-- Creating **desktop and Android apps**
+- Creating **Web applications**
 
 ## 🧰 Tech Stack
 
