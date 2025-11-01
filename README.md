@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm ΜΑΓΔΑΛΗΝΗ!
 
-🎓 I'm a Computer & Electronic Systems Engineering student at the **International Hellenic University**, passionate about Software Engineering, technology, and continuous learning.
+🎓 I'm an Information & Electronic Systems Engineering student at the **International Hellenic University**, passionate about Software Engineering, technology, and continuous learning.
 
 💻 I’m currently focused on:
 - Building **Java** and **backend** development skills
