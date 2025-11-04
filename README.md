@@ -10,12 +10,11 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-☕ Java · 💻 C · 🌐 HTML · 🧩 CSS · ⚡ JavaScript (learning) · 🗄️ SQL
+☕ Java · 🗄️ SQL · 🌐 HTML · 🧩 CSS · ⚡ JavaScript (learning) · 💻 C
 
 **Frameworks & Libraries:**  
-🧱 JavaFX · ⚙️ JDBC · ⚙️ Maven ·
-🌿 Spring Boot · 🧩 Spring Data JPA  · 
-🔐 Spring Security (learning) · 🧬 Hibernate  
+⚙️ JDBC · ⚙️ Maven · 🌿 Spring Boot · 🧩 Spring Data JPA  · 
+🔐 Spring Security (learning) · 🧬 Hibernate · 🧱 JavaFX ·
 
 **Databases:**  
 🗄️ MySQL   
