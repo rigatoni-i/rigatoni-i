@@ -31,6 +31,7 @@ I'm familiar with the Linux OS, specifically Ubuntu and Mint
 🚀 Goals for 2026:
 - Develop and publish a complete **Spring Java** app
 - Contribute to open-source projects
-- Learn aws
+- Learn React JS
+- Learn AWS
 ---
 
